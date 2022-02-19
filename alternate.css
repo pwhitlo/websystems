@@ -1,0 +1,27 @@
+html
+{
+  font-family: Arial;
+  text-align: left;
+  
+}
+h1
+{
+  text-align: center;
+}
+body
+{
+  background: linear-gradient(to bottom right, darkslategrey, purple);
+  color:white;
+}
+a:hover
+{
+  color: blue;
+}
+.navigation id="links"
+{
+  color:white;
+}
+footer 
+{ 
+  text-align: center; 
+}
